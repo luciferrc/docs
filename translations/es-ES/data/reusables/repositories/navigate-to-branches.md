@@ -1,1 +1,0 @@
-1. Above the list of files, click {% octicon "git-branch" aria-label="The branch icon" %} **Branches**. ![Vínculo de ramas en página de resumen](/assets/images/help/branches/branches-overview-link.png)
